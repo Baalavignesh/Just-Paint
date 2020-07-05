@@ -3,11 +3,6 @@ import './App.css';
 import Canvas from './Reusables/Canvas/Canvas';
 
 class App extends Component {
-
-
-
-
-
   render() {
     return (
       <div className = 'App'>
@@ -23,15 +18,9 @@ class App extends Component {
         <footer className = 'footer-part'>
           This website dosent have a copyright.
         </footer>
-
-        
-          
-        
-        
       </div>
     );
   }
-  
 }
 
 export default App;
